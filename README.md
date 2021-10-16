@@ -12,7 +12,7 @@ Python
   - Extract The Zip File
   - Open main.py use python.exe / command prompt
 
-> [![lnx] (https://img.shields.io/badge/linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Lamp1337)
+> [![lnx](https://img.shields.io/badge/linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Lamp1337)
   - git clone https://github.com/Lamp1337/Simple-DOS
   - cd Simple-DOS
   - python3 main.py
